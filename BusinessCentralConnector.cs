@@ -34,7 +34,6 @@ namespace com.businesscentral
                 {
                     var jsonContent = await responseMessage.Content.ReadAsStringAsync();
                     translations = JsonConvert.DeserializeObject<Translations>(jsonContent);
-
                 }
             }
             return translations;

@@ -4,8 +4,6 @@ using Newtonsoft.Json;
 
 namespace com.businesscentral
 {
-
-
     public partial class Translations
     {
         [JsonProperty("@odata.context")]
