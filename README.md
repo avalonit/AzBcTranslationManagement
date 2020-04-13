@@ -11,4 +11,4 @@ A Visual Studio Code Extension for AL;
 An Azure Function;
 
 The description of the project:
-https://www.business-central.blog/2020/04/10/whatsapp-integration-easy-and-fast/
+https://businesscentraldotblog.wordpress.com/2020/04/13/create-your-own-visual-studio-code-extension-to-manage-xlf-business-central-translation-file/
